@@ -46,8 +46,15 @@ public class Pertemuan4 {
 
 //        mengetahui index nama tengah menggunakan substring
         String strD = "32csn230h92rhvncz";
-        System.out.println("Token 3 Digit Awal ------" + strD.substring(3)); //Random Function dan Dynamic
+        System.out.println("Token 3 Digit Awal ------" + strD.substring(3,10)); //Random Function dan Dynamic
 
+        String nama1 = "Sutarno";
+
+        String nama2 = "sutarno";
+
+        boolean persamaan = nama2.equalsIgnoreCase(nama1);
+
+        System.out.println(nama2.equalsIgnoreCase(nama1));
 
     }
 }
