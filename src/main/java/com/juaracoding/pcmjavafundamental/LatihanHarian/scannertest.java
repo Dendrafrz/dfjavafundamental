@@ -1,4 +1,4 @@
-package com.juaracoding;
+package com.juaracoding.pcmjavafundamental.LatihanHarian;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.juaracoding;
+package com.juaracoding.pcmjavafundamental.LatihanHarian;
 
 public class Pertemuan4 {
     public static void main(String[] args) {
