@@ -4,11 +4,13 @@ import java.util.Scanner;
 
 public class testingPraktikum1 {
     public static void main(String[] args) {
+        //Scanner untuk input
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Masukan kata :");
         String input = scanner.nextLine();
 
+        //
         int hasil = hitungHasil(input);
 
         System.out.println("Hasil :" + hasil);
