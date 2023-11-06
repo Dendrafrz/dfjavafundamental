@@ -1,4 +1,4 @@
-package com.juaracoding.pcmjavafundamental.LatihanHarian;
+package com.juaracoding.pcmjavafundamental.TestingCode;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class scannertest {
         Scanner scan = new Scanner(System.in);
 //        stringBuffer sBuffer = new StringBuffer()
         System.out.println("Bilangan genap : ");
-        int intFirst = scan.nextInt();
-        System.out.println(intFirst);
+        int test = scan.nextInt();
+        System.out.println(test);
     }
 }
